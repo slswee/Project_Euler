@@ -22,6 +22,6 @@ int main()
 	
 	sum = sum3 + sum5;
 	printf("sum is:%d\n", sum);
-
-
+	
+	return 0;
 }
